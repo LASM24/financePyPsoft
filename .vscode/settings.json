@@ -1,0 +1,11 @@
+{
+    "python.analysis.extraPaths": [
+        "./finance_project",
+        "./finance_project",
+        "./finance_project"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
